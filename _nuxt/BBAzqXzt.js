@@ -1,0 +1,1 @@
+import{u as e}from"./C6yh4fjS.js";import{t}from"#entry";var n={mounted(){e(`/license`)}};function r(e,t,n,r,i,a){return null}var i=t(n,[[`render`,r]]);export{i as default};
